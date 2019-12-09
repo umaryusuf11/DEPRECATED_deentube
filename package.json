@@ -1,0 +1,26 @@
+{
+  "name": "deentube",
+  "version": "0.0.1",
+  "description": "Streaming Service for Islamic Content Creators",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaryusuf11/deentube.git"
+  },
+  "author": "Gizo Ltd.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umaryusuf11/deentube/issues"
+  },
+  "homepage": "https://github.com/umaryusuf11/deentube#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ejs":"^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
