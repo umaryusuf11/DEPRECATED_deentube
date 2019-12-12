@@ -3,9 +3,42 @@
         "title":"What's The Difference Between Shia And Sunni Islam",
         "channelID": "2GDB7E",
         "viewCount":10,
-        "description":"",
-        "videoURL":"/static/media/8DHBF6.mp4",
-        "thumbnailURL":"/static/media/hero.png",
+        "description":"Shia and Sunni Muslims practice two similar versions of Islam, but what's the difference? Like us on Facebook: https://www.facebook.com/ajplusenglish Download the AJ+ app at http://www.ajplus.net/ Follow us on Twitter: https://twitter.com/ajplus",
+        "videoURL":"/static/media/videos/8DHBF6.mp4",
+        "thumbnailURL":"/static/media/videoPosters/8DHBF6.png",
+        "tags":["a"],
+        "isVidActive":true
+    },
+
+    "8DHBFB":{
+        "title":"What's The Difference Between Shia And Sunni Islam",
+        "channelID": "2GDB7E",
+        "viewCount":10,
+        "description":"Shia and Sunni Muslims practice two similar versions of Islam, but what's the difference? Like us on Facebook: https://www.facebook.com/ajplusenglish Download the AJ+ app at http://www.ajplus.net/ Follow us on Twitter: https://twitter.com/ajplus",
+        "videoURL":"/static/media/videos/8DHBF6.mp4",
+        "thumbnailURL":"/static/media/videoPosters/8DHBF6.png",
+        "tags":["b"],
+        "isVidActive":true
+    },
+
+    "8DHBFC":{
+        "title":"What's The Difference Between Shia And Sunni Islam",
+        "channelID": "2GDB7E",
+        "viewCount":10,
+        "description":"Shia and Sunni Muslims practice two similar versions of Islam, but what's the difference? Like us on Facebook: https://www.facebook.com/ajplusenglish Download the AJ+ app at http://www.ajplus.net/ Follow us on Twitter: https://twitter.com/ajplus",
+        "videoURL":"/static/media/videos/8DHBF6.mp4",
+        "thumbnailURL":"/static/media/videoPosters/8DHBF6.png",
+        "tags":["c"],
+        "isVidActive":true
+    },
+
+    "8DHBFD":{
+        "title":"What's The Difference Between Shia And Sunni Islam",
+        "channelID": "2GDB7E",
+        "viewCount":10,
+        "description":"Shia and Sunni Muslims practice two similar versions of Islam, but what's the difference? Like us on Facebook: https://www.facebook.com/ajplusenglish Download the AJ+ app at http://www.ajplus.net/ Follow us on Twitter: https://twitter.com/ajplus",
+        "videoURL":"/static/media/videos/8DHBF6.mp4",
+        "thumbnailURL":"/static/media/videoPosters/8DHBF6.png",
         "tags":["a"],
         "isVidActive":true
     }

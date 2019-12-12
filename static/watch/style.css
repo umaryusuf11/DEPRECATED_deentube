@@ -20,6 +20,12 @@
 	box-sizing: border-box;
 	border: none;
 }
+#moreVids1Title{
+	overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
 #Videoplayer {
 	position: absolute;
 	background: #E5E5E5;
@@ -436,6 +442,7 @@ video:focus{
 	color: rgba(0,0,0,1);
 	letter-spacing: 1px;
 }
+
 #DescriptionLabel {
 	opacity: 0.651;
 	position: absolute;
@@ -491,6 +498,7 @@ video:focus{
 	height: 62px;
 	left: 0px;
 	top: 36px;
+	border-radius: 50%;
 }
 #currentVideoTitle {
 	position: absolute;

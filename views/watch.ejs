@@ -85,13 +85,10 @@
 		</div>
 	</div>
 	<div id="morevideos1">
-		<svg class="Rectangle_2_">
-			<rect fill="rgba(0,0,0,1)" id="Rectangle_2_" rx="0" ry="0" x="0" y="0" width="308" height="173">
-			</rect>
-		</svg>
+		<img src="<%=moreVids1ThumbnailURL%>" alt="Thumbnail" class="Rectangle_2_">
 		<div id="morevideos5details_ba">
 			<div id="Video_Title_ba">
-				<span>Video Title Goes Right<br/>Here</span>
+				<div id="moreVids1Title"><%=moreVids1Title%></div>
 			</div>
 			<div id="Channel_Name_ba">
 				<span>Channel Name</span>
@@ -117,10 +114,7 @@
 		<div id="Channel_Name_bf">
 			<span id="currentVideoChannelNameText"><%=channelName%></span>
 		</div>
-		<svg class="ChannelIcon">
-			<ellipse fill="rgba(255,255,255,1)" id="ChannelIcon" rx="31" ry="31" cx="31" cy="31">
-			</ellipse>
-		</svg>
+		<img src="<%=channelIconURL%>" alt="Channel Icon" class="ChannelIcon">
 		<div id="currentVideoTitle">
 			<span id="currentVideoTitleText"><%=title%></span>
 		</div>
